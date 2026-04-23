@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:112240,100:1a1a2e&height=180&section=header&text=Atif%20Afzal&fontSize=65&fontColor=58a6ff&fontAlignY=45&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=750&height=50&lines=6%2B+Years+%7C+SoC+%26+GPU+Block+Verification+Engineer;UVM+%7C+SystemVerilog+%7C+SystemC+%7C+Coverage+Driven+Verification;Agentic+AI+%7C+MCP+Servers+%7C+Claude+API+%7C+OpenAI+Integration;NLP+%2F+NER+Model+Research+for+SOC+Verification+Automation" alt="Typing SVG" width="750"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=780&height=50&lines=Sr.+Silicon+Design+Engineer+%40+AMD+%7C+GPU+%26+SoC+Verification;6%2B+Years+%7C+Mobile+%C2%B7+Automotive+%C2%B7+Wearable+%C2%B7+Server+GPU+Tapeouts;UVM+%7C+SystemVerilog+%7C+SystemC+%7C+Coverage-Driven+Verification;Agentic+AI+Tooling+%7C+MCP+Servers+%7C+NLP+for+Verification+Automation" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -12,117 +12,42 @@
 <a href="mailto:atifafzal457@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-atifafzal457-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/AMD-Sr.%20Silicon%20Design%20Engineer-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-F97316?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/>
-
 <a href="https://pypi.org/user/themanmakerX/">
   <img src="https://img.shields.io/badge/PyPI-Published-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AMD-Sr.%20Silicon%20Design%20Engineer-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 <img src="https://img.shields.io/badge/M.Tech%20VLSI-BITS%20Pilani-8B5CF6?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Experience-6%2B%20Years-22c55e?style=for-the-badge&logo=buffer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-F97316?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
----
+-----
 
-## $ whoami
+## About Me
 
-```python
-profile = {
-    "name"        : "Atif Afzal",
-    "role"        : "Sr. Silicon Design Engineer — SoC & GPU Verification",
-    "company"     : "AMD, Bengaluru",
-    "prev"        : "Samsung R&D Bengaluru  (Associate Staff DV Engineer · 5+ years)",
-    "experience"  : "6+ years — Production Silicon: Server · Mobile · Auto · Wearable · TV SoCs",
-    "education"   : "M.Tech Microelectronics/VLSI @ BITS Pilani  |  B.Tech EEE @ SRMS Bareilly",
-    "speciality"  : ["GPU Block Verification", "UVM / SystemVerilog / SystemC",
-                     "Agentic AI Tooling", "ML/NLP for Verification", "Automation at Scale"],
-    "open_source" : "PyPI published tools  |  MCP servers  |  Agentic AI frameworks",
-    "contact"     : "atifafzal457@gmail.com  |  linkedin.com/in/atif-afzal-077869139",
-}
-```
+Sr. Silicon Design Engineer at AMD with 6+ years of hands-on experience across mobile, automotive, wearable, and server-class GPU SoCs. I bridge hardware verification and agentic AI — building the tooling layer that makes design verification smarter, faster, and more autonomous.
 
----
+> *6+ years of silicon. Multiple tapeouts. From mobile wearables to server-class GPUs. Now building the AI layer that makes verification smarter.*
 
-## GitHub Stats
+**Open to:** Hardware AI tooling collaborations · Verification automation consulting · NLP for EDA research
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=themanmakerX&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanmakerX&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=themanmakerX&theme=github-dark-blue&border=30363d&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
-
-</div>
-
----
+-----
 
 ## Career Journey
 
-<table>
-<tr>
-<td width="18%" align="center"><b>Period</b></td>
-<td width="22%" align="center"><b>Company</b></td>
-<td width="25%" align="center"><b>Role</b></td>
-<td><b>Scope</b></td>
-</tr>
-<tr>
-<td>Feb 2025 – Present</td>
-<td><b>AMD</b>, Bengaluru</td>
-<td>Sr. Silicon Design Engineer</td>
-<td>GPU SoC verification · UVM + SystemC · Server &amp; laptop GPU variants · AI-powered debug tooling</td>
-</tr>
-<tr>
-<td>Nov 2019 – Feb 2025</td>
-<td><b>Samsung R&amp;D</b>, Bengaluru</td>
-<td>Associate Staff DV Engineer</td>
-<td>5+ years · GPU block DV for Arm, AMD, Imagination IPs · Mobile · Auto · Wearable · TV SoCs · Perl automation suite</td>
-</tr>
-<tr>
-<td>Apr – Oct 2019</td>
-<td><b>Maven Silicon</b>, Bengaluru</td>
-<td>VLSI Trainee</td>
-<td>Advanced VLSI Design &amp; Verification · UART IP core · Router 1x3 RTL design &amp; verification</td>
-</tr>
-</table>
+|Period             |Company                     |Role                       |Scope                                                                                                             |
+|-------------------|----------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------|
+|Feb 2025 – Present |**AMD**, Bengaluru          |Sr. Silicon Design Engineer|GPU SoC verification · UVM + SystemC · Server & laptop GPU variants · AI-powered debug tooling                    |
+|Nov 2019 – Feb 2025|**Samsung R&D**, Bengaluru  |Associate Staff DV Engineer|5+ years · GPU block DV for Arm, AMD, Imagination IPs · Mobile · Auto · Wearable · TV SoCs · Perl automation suite|
+|Apr – Oct 2019     |**Maven Silicon**, Bengaluru|VLSI Trainee               |Advanced VLSI Design & Verification · UART IP core · Router 1x3 RTL design & verification                         |
 
----
+-----
 
-## Verification Expertise
-
-<details>
-<summary><b>SoC-Level Verification — 13 Scenario Types (click to expand)</b></summary>
-
-<br/>
-
-| Scenario | Methodology |
-|---|---|
-| Register Read / Write | RAL — UVM Register Abstraction Layer |
-| Connectivity | Clock · Reset · Interrupt · System Registers |
-| Security Compliance | Spec-based access permission validation per IP |
-| Core Functional | Spec-driven scenario definition &amp; execution |
-| Reset Verification | IP register reset values via reg_def sheets |
-| Interrupt Handling | Frame completion + IP-specific interrupt flows |
-| Clock Gating | AMBA Q-Channel (auto) + SFR writes (manual) |
-| Safety — ASIL | Functional safety compliance for safety-critical IPs |
-| DVFS | Frequency scaling per voltage sequencing spec |
-| Low Power Simulation | Power-up / down tests per IP voltage domain |
-| Functional Coverage | Covergroup / Coverpoint definition and closure |
-| Gate-Level Simulation | Post-synthesis SoC-level gate sim |
-| X-Prop &amp; CDC | X-propagation and clock domain crossing cleanup |
-
-</details>
-
-<details>
-<summary><b>GPU Ecosystem — Vendors &amp; SoC Platforms Verified</b></summary>
-
-<br/>
+## GPU Ecosystem — Vendors & SoC Platforms Verified
 
 ```
 GPU IP Vendors Verified:
@@ -143,82 +68,101 @@ Multimedia IP Experience:
   └── Video-Codec IPs
 ```
 
-</details>
+-----
 
----
+## SoC-Level Verification — 13 Scenario Types
+
+|Scenario             |Methodology                                         |
+|---------------------|----------------------------------------------------|
+|Register Read / Write|RAL — UVM Register Abstraction Layer                |
+|Connectivity         |Clock · Reset · Interrupt · System Registers        |
+|Security Compliance  |Spec-based access permission validation per IP      |
+|Core Functional      |Spec-driven scenario definition & execution         |
+|Reset Verification   |IP register reset values via reg_def sheets         |
+|Interrupt Handling   |Frame completion + IP-specific interrupt flows      |
+|Clock Gating         |AMBA Q-Channel (auto) + SFR writes (manual)         |
+|Safety — ASIL        |Functional safety compliance for safety-critical IPs|
+|DVFS                 |Frequency scaling per voltage sequencing spec       |
+|Low Power Simulation |Power-up / down tests per IP voltage domain         |
+|Functional Coverage  |Covergroup / Coverpoint definition and closure      |
+|Gate-Level Simulation|Post-synthesis SoC-level gate sim                   |
+|X-Prop & CDC         |X-propagation and clock domain crossing cleanup     |
+
+-----
 
 ## Automation Portfolio
 
-<details>
-<summary><b>At AMD — AI-Powered DV Tooling  (Python · OpenAI API · Claude API)</b></summary>
-
-<br/>
+### At AMD — AI-Powered DV Tooling *(Python · OpenAI API · Claude API)*
 
 **AI-Debug Framework** — OpenAI / Codex integration into DV workflows
+
 - Hybrid CLI + GUI for AI-assisted root-cause analysis, log triage, and test failure diagnosis
 - Modular hooks pull context from waveform logs, coverage reports, and simulation outputs
 - Batch CLI: failure summarization, hypothesis generation, rerun recommendations
 - Secure API key management, rate-limit handling, and offline fallbacks
 
-**Testcase Monitoring Wizard** — Real-time regression dashboard  (Python · Tkinter)
+**Testcase Monitoring Wizard** — Real-time regression dashboard *(Python · Tkinter)*
+
 - GUI for real-time Pass / Fail / Running categorization from run directories
 - One-click access to logs, waveforms, and debug artifacts
 - Search, filter, and drill-down for fast triage across multiple projects
 
-**Disk Monitoring Setup** — Multi-user disk management  (Python · CLI + GUI)
+**Disk Monitoring Setup** — Multi-user disk management *(Python · CLI + GUI)*
+
 - Tracks disk utilization across all user directories proactively
 - Threshold-based alerts, user-wise categorization, historical usage trends
 
-</details>
+### At Samsung — Perl Automation Suite *(Perl · XLS → SV / VSIF / TXT)*
 
-<details>
-<summary><b>At Samsung — Perl Automation Suite  (Perl · XLS → SV / VSIF / TXT)</b></summary>
+|Tool                         |Input                           |Output              |Purpose                                    |
+|-----------------------------|--------------------------------|--------------------|-------------------------------------------|
+|**Test Case Generator**      |Hardware Description Spec (.xls)|`.sv` class files   |Auto-generate UVM test classes from spec   |
+|**Vsif File Generator**      |Attribute Sheet (.xls)          |`.vsif`             |Cadence Vmanager-compatible coverage config|
+|**Coverage Coder**           |Covergroup / Coverpoint Xls     |`.sv` coverage class|Functional coverage automation             |
+|**Regression Status Monitor**|Dump directory                  |`.txt` report       |Pass / Fail / In-Progress / Rerun counts   |
 
-<br/>
-
-| Tool | Input | Output | Purpose |
-|---|---|---|---|
-| **Test Case Generator** | Hardware Description Spec (.xls) | `.sv` class files | Auto-generate UVM test classes from spec |
-| **Vsif File Generator** | Attribute Sheet (.xls) | `.vsif` | Cadence Vmanager-compatible coverage config |
-| **Coverage Coder** | Covergroup / Coverpoint Xls | `.sv` coverage class | Functional coverage automation |
-| **Regression Status Monitor** | Dump directory | `.txt` report | Pass / Fail / In-Progress / Rerun counts |
-
-</details>
-
----
+-----
 
 ## ML & NLP Research
 
-<details>
-<summary><b>Enhancing SoC Verification Using NLP — BITS Pilani M.Tech Project  (May – Nov 2024)</b></summary>
-
-<br/>
-
-```
-Project : Enhancing SoC Verification Using Natural Language Processing
-Duration: May 2024 – November 2024  |  BITS Pilani, Rajasthan Campus
-```
+### Enhancing SoC Verification Using NLP — BITS Pilani M.Tech Project *(May – Nov 2024)*
 
 - Trained a **Named Entity Recognition (NER)** model on SoC design documents and integration specs
 - Model identifies and labels entities in spec text, detects formatting patterns across sections
-- Establishes inter-label dependencies across spec sections to **predict verification scenarios automatically**
+- Establishes inter-label dependencies to **predict verification scenarios automatically**
 - Self-learning: prediction accuracy improves as the model fine-tunes on new simulation results
 
-**Core ML competencies applied:**
-- Supervised / Unsupervised / Semi-Supervised / Reinforcement Learning
-- NLP pipeline: dataset creation → training → optimization → fine-tuning
-- Applied NLP for automated extraction of verification scenarios from unstructured spec text
+**Core ML competencies applied:** Supervised · Unsupervised · Semi-Supervised · Reinforcement Learning · NLP pipeline (dataset creation → training → optimization → fine-tuning) · Automated extraction of verification scenarios from unstructured spec text
 
-</details>
+-----
 
----
+## Open Source Projects
 
-## Technical Arsenal
+<div align="center">
 
-<details>
-<summary><b>Hardware Languages, EDA Tools &amp; Protocols</b></summary>
+<a href="https://github.com/themanmakerX/Agentic-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=Agentic-AI&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
+</a>
+<a href="https://github.com/themanmakerX/UVM-Testbench-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=UVM-Testbench-Generator&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
+</a>
+<a href="https://github.com/themanmakerX/Grepper-Utility">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=Grepper-Utility&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
+</a>
+
+</div>
 
 <br/>
+
+|Project                                                                               |Stack                             |PyPI                                                                                                                                          |What it does                                                                                                 |
+|--------------------------------------------------------------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+|**[Agentic-AI](https://github.com/themanmakerX/Agentic-AI)**                          |Python · Shell · JS · TS · FastMCP|—                                                                                                                                             |Modular AI coding agent framework — reusable skills, MCP servers, knowledge graphs, multi-agent orchestration|
+|**[UVM-Testbench-Generator](https://github.com/themanmakerX/UVM-Testbench-Generator)**|Python · Tkinter · SV templates   |[![](https://img.shields.io/pypi/v/uvm-testbench-generator?style=flat-square&color=3775A9)](https://pypi.org/project/uvm-testbench-generator/)|GUI scaffold: DUT import → full UVM environment in one workflow                                              |
+|**[Grepper-Utility](https://github.com/themanmakerX/Grepper-Utility)**                |Python · Regex · ANSI             |[![](https://img.shields.io/pypi/v/grepper?style=flat-square&color=3775A9)](https://pypi.org/project/grepper/)                                |Fast recursive file-search CLI with regex, ignore patterns, colorized output                                 |
+
+-----
+
+## Technical Arsenal
 
 **Hardware Languages & Methodology**
 
@@ -258,11 +202,6 @@ Duration: May 2024 – November 2024  |  BITS Pilani, Rajasthan Campus
 <img src="https://img.shields.io/badge/DPI--C-SV%2FSystemC%20Bridge-0EA5E9?style=flat-square"/>
 </div>
 
-</details>
-
-<details>
-<summary><b>Software, AI & Infrastructure</b></summary>
-
 <br/>
 
 **Software & AI**
@@ -292,95 +231,56 @@ Duration: May 2024 – November 2024  |  BITS Pilani, Rajasthan Campus
 <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white"/>
 </div>
 
-</details>
-
----
-
-## Open Source Projects
-
-<div align="center">
-
-<a href="https://github.com/themanmakerX/Agentic-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=Agentic-AI&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
-</a>
-<a href="https://github.com/themanmakerX/UVM-Testbench-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=UVM-Testbench-Generator&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
-</a>
-<a href="https://github.com/themanmakerX/Grepper-Utility">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=Grepper-Utility&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
-</a>
-
-</div>
-
-<br/>
-
-| Project | Stack | PyPI | What it does |
-|---|---|---|---|
-| **[Agentic-AI](https://github.com/themanmakerX/Agentic-AI)** | Python · Shell · JS · TS · FastMCP | — | Modular AI coding agent framework — reusable skills, MCP servers, knowledge graphs, multi-agent orchestration |
-| **[UVM-Testbench-Generator](https://github.com/themanmakerX/UVM-Testbench-Generator)** | Python · Tkinter · SV templates | [![](https://img.shields.io/pypi/v/uvm-testbench-generator?style=flat-square&color=3775A9)](https://pypi.org/project/uvm-testbench-generator/) | GUI scaffold: DUT import → full UVM environment in one workflow |
-| **[Grepper-Utility](https://github.com/themanmakerX/Grepper-Utility)** | Python · Regex · ANSI | [![](https://img.shields.io/pypi/v/grepper?style=flat-square&color=3775A9)](https://pypi.org/project/grepper/) | Fast recursive file-search CLI with regex, ignore patterns, colorized output |
-
----
+-----
 
 ## Education
 
-```
-M.Tech — Microelectronics & VLSI Design           BITS Pilani, Rajasthan Campus
-Jan 2023 – Present
-Research: NLP/NER model for automated SoC verification scenario extraction
+|Degree                                       |Institution                                       |Period             |
+|---------------------------------------------|--------------------------------------------------|-------------------|
+|M.Tech — Microelectronics & VLSI Design      |BITS Pilani, Rajasthan Campus                     |Jan 2023 – Present |
+|B.Tech — Electrical & Electronics Engineering|SRMS College of Engineering & Technology, Bareilly|Aug 2014 – Jul 2018|
+|Advanced VLSI Design & Verification Training |Maven Silicon, Bengaluru                          |Apr – Oct 2019     |
 
-B.Tech — Electrical & Electronics Engineering     SRMS College of Engg & Tech, Bareilly (UP)
-Aug 2014 – Jul 2018
+-----
 
-Advanced VLSI Design & Verification Training      Maven Silicon, Bengaluru
-Apr 2019 – Oct 2019  |  UART-IP Core Verification · Router 1x3 RTL Design & Verification
-```
+## Achievements — National Robotics Champion
 
----
-
-## Achievements
+> 🥇 **1st Place** at IIT Delhi · IIT Kanpur · ABES Engineering College *(Line Follower Robot)*
 
 <details>
-<summary><b>Robotics — National Level Competition Wins (IITs, IIITs &amp; Engineering Colleges)</b></summary>
+<summary>Full competition results</summary>
 
 <br/>
 
-```
-  1st  Line Follower Robot  →  IIT Delhi
-  1st  Line Follower Robot  →  IIT Kanpur
-  1st  Line Follower Robot  →  ABES Engineering College, Ghaziabad
-  2nd  Line Follower Robot  →  IIT BHU
-  2nd  Line Follower Robot  →  IIIT Delhi
-  2nd  Line Follower Robot  →  SRMS College, Bareilly
-  3rd  Line Follower Robot  →  IIIT Delhi
-  2nd  Edge Follower Robot  →  ABES Engineering College, Ghaziabad
-  2nd  Robo Soccer          →  ABES Engineering College, Ghaziabad
-```
+|Position|Event              |Venue                              |
+|--------|-------------------|-----------------------------------|
+|🥇 1st   |Line Follower Robot|IIT Delhi                          |
+|🥇 1st   |Line Follower Robot|IIT Kanpur                         |
+|🥇 1st   |Line Follower Robot|ABES Engineering College, Ghaziabad|
+|🥈 2nd   |Line Follower Robot|IIT BHU                            |
+|🥈 2nd   |Line Follower Robot|IIIT Delhi                         |
+|🥈 2nd   |Line Follower Robot|SRMS College, Bareilly             |
+|🥉 3rd   |Line Follower Robot|IIIT Delhi                         |
+|🥈 2nd   |Edge Follower Robot|ABES Engineering College, Ghaziabad|
+|🥈 2nd   |Robo Soccer        |ABES Engineering College, Ghaziabad|
 
 </details>
 
----
+-----
 
 ## Currently Working On
 
-```python
-current_focus = {
-    "silicon_dv"   : "GPU subsystem verification — Server & laptop GPU platforms @ AMD",
-    "ai_tooling"   : "Agentic multi-agent debug platform with MCP server ecosystem",
-    "research"     : "NLP-driven verification scenario auto-generation (BITS Pilani M.Tech)",
-    "open_source"  : "UVM scaffolding tools + CLI utilities on PyPI",
-    "learning"     : "LLM fine-tuning for hardware verification context understanding",
-}
-```
+|Focus Area   |Details                                                              |
+|-------------|---------------------------------------------------------------------|
+|🔲 Silicon DV |GPU subsystem verification — Server & laptop GPU platforms @ AMD     |
+|🤖 AI Tooling |Agentic multi-agent debug platform with MCP server ecosystem         |
+|🔬 Research   |NLP-driven verification scenario auto-generation (BITS Pilani M.Tech)|
+|📦 Open Source|UVM scaffolding tools + CLI utilities on PyPI                        |
+|📚 Learning   |LLM fine-tuning for hardware verification context understanding      |
 
----
+-----
 
 <div align="center">
-
-*6+ years of silicon. Multiple tapeouts. From mobile wearables to server-class GPUs.*
-*Now building the AI layer that makes verification smarter.*
-
-<br/>
 
 <a href="https://www.linkedin.com/in/atif-afzal-077869139">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
