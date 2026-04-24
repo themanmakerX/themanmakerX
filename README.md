@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:112240,100:1a1a2e&height=200&section=header&text=Atif%20Afzal&fontSize=70&fontColor=58a6ff&fontAlignY=45&animation=fadeIn&desc=Sr.%20Silicon%20Design%20Engineer%20%7C%20GPU%20%26%20SoC%20Verification%20%7C%20Agentic%20AI&descSize=18&descAlignY=65&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:112240,100:1a1a2e&height=180&section=header&text=Atif%20Afzal&fontSize=70&fontColor=58a6ff&fontAlignY=50&animation=fadeIn"/>
+
+<h3>Sr. Silicon Design Engineer &nbsp;|&nbsp; GPU & SoC Verification &nbsp;|&nbsp; Agentic AI</h3>
 
 <br/>
 
