@@ -27,7 +27,7 @@
 
 Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience across mobile, automotive, wearable, and server-class GPU SoCs. I bridge hardware verification and agentic AI — building the tooling layer that makes design verification smarter, faster, and more autonomous.
 
-> *6+ years of silicon. Multiple tapeouts. From mobile wearables to server-class GPUs. Now building the AI layer that makes verification smarter.*
+> *7+ years of silicon. Multiple tapeouts. From mobile wearables to server-class GPUs. Now building the AI layer that makes verification smarter.*
 
 💡 **Open to:** Hardware AI tooling collaborations · Verification automation consulting · NLP for EDA research
 
@@ -41,7 +41,7 @@ Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience 
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                     CAREER SNAPSHOT                                  ║
 ╠══════════════════╦═══════════════════════════════════════════════════╣
-║  Total XP        ║  6+ Years in Production Silicon                   ║
+║  Total XP        ║  7+ Years in Production Silicon                   ║
 ║  Current Role    ║  Sr. Silicon Design Engineer @ AMD                ║
 ║  SoC Domains     ║  Mobile · Auto · Wearable · TV · Server HPC       ║
 ║  GPU Vendors     ║  Arm · AMD · Imagination Technologies             ║
