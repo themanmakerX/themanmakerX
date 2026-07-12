@@ -25,7 +25,7 @@
 
 <div align="center"><h3>👤 About Me</h3></div>
 
-Sr. Silicon Design Engineer at **AMD** with **6+ years** of hands-on experience across mobile, automotive, wearable, and server-class GPU SoCs. I bridge hardware verification and agentic AI — building the tooling layer that makes design verification smarter, faster, and more autonomous.
+Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience across mobile, automotive, wearable, and server-class GPU SoCs. I bridge hardware verification and agentic AI — building the tooling layer that makes design verification smarter, faster, and more autonomous.
 
 > *6+ years of silicon. Multiple tapeouts. From mobile wearables to server-class GPUs. Now building the AI layer that makes verification smarter.*
 
