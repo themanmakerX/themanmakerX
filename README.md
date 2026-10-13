@@ -114,21 +114,21 @@ Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience 
 <div align="center"><h3>🧠 Skill Proficiency</h3></div>
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'xyChart': {'backgroundColor': '#0d1117', 'plotColorPalette': '#58a6ff', 'titleColor': '#c9d1d9', 'xAxisLabelColor': '#8b949e', 'yAxisLabelColor': '#8b949e', 'gridColor': '#21262d'}}}}%%
+%%{init: {'theme': 'dark'}}%%
 xychart-beta
-  title "Hardware & EDA — Years of Experience"
+  title "Hardware and EDA — Years of Experience"
   x-axis ["SV/UVM", "CDV", "SVA", "VCS/Verdi", "Vmanager", "Verisium", "RTL", "Modelsim"]
   y-axis "Years" 0 --> 7
-  bar [6.5, 6.5, 5, 6.5, 5, 2, 6, 3]
+  bar [6, 6, 5, 6, 5, 2, 6, 3]
 ```
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'xyChart': {'backgroundColor': '#0d1117', 'plotColorPalette': '#1f6feb', 'titleColor': '#c9d1d9', 'xAxisLabelColor': '#8b949e', 'yAxisLabelColor': '#8b949e', 'gridColor': '#21262d'}}}}%%
+%%{init: {'theme': 'dark'}}%%
 xychart-beta
-  title "Software & AI — Years of Experience"
+  title "Software and AI — Years of Experience"
   x-axis ["Python", "Perl", "Shell", "AI APIs", "FastAPI/TS", "NLP/NER", "SystemC"]
   y-axis "Years" 0 --> 6
-  bar [5, 5, 6, 2, 2, 1.5, 2]
+  bar [5, 5, 6, 2, 2, 1, 2]
 ```
 
 -----
@@ -136,13 +136,13 @@ xychart-beta
 <div align="center"><h3>📈 Domain Experience Distribution</h3></div>
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'pie1': '#58a6ff', 'pie2': '#1f6feb', 'pie3': '#388bfd', 'pie4': '#79c0ff', 'pie5': '#cae8ff', 'pieTextColor': '#0d1117', 'pieLegendTextColor': '#c9d1d9', 'pieSectionTextSize': '14px', 'pieOuterStrokeWidth': '2px'}}}%%
-pie showData title SoC Platform Coverage
-  "Mobile SoCs" : 40
-  "Server / HPC GPU" : 30
-  "Automotive" : 15
-  "Television" : 10
-  "Wearable" : 5
+%%{init: {'theme': 'dark'}}%%
+pie title SoC Platform Coverage
+  "Mobile SoCs 40%" : 40
+  "Server / HPC GPU 30%" : 30
+  "Automotive 15%" : 15
+  "Television 10%" : 10
+  "Wearable 5%" : 5
 ```
 
 -----
@@ -150,18 +150,18 @@ pie showData title SoC Platform Coverage
 <div align="center"><h3>⏳ Career Timeline</h3></div>
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#1f3a5f', 'primaryBorderColor': '#58a6ff', 'primaryTextColor': '#c9d1d9', 'secondaryColor': '#112240', 'tertiaryColor': '#0d1117', 'sectionBkgColor': '#0d1117', 'altSectionBkgColor': '#161b22', 'gridColor': '#21262d', 'doneTaskBkgColor': '#1f3a5f', 'doneTaskBorderColor': '#58a6ff', 'activeTaskBkgColor': '#1f6feb', 'activeTaskBorderColor': '#79c0ff', 'taskTextColor': '#c9d1d9', 'taskTextOutsideColor': '#c9d1d9', 'taskTextLightColor': '#e6edf3'}}}%%
+%%{init: {'theme': 'dark'}}%%
 gantt
-  title Career & Education Timeline
+  title Career and Education Timeline
   dateFormat YYYY-MM
   axisFormat %Y
-  section 🎓 Education
-    B.Tech EEE — SRMS Bareilly       :done,    edu1, 2014-08, 2018-07
-    M.Tech VLSI — BITS Pilani        :active,  edu2, 2023-01, 2026-12
-  section 💼 Experience
-    VLSI Training — Maven Silicon    :done,    exp1, 2019-04, 2019-10
-    Associate Staff DV — Samsung R&D :done,    exp2, 2019-11, 2025-02
-    Sr. Silicon Design Eng — AMD     :active,  exp3, 2025-02, 2026-12
+  section Education
+    B.Tech EEE SRMS Bareilly      :done,    edu1, 2014-08, 2018-07
+    M.Tech VLSI BITS Pilani       :active,  edu2, 2023-01, 2026-12
+  section Experience
+    VLSI Training Maven Silicon   :done,    exp1, 2019-04, 2019-10
+    Associate Staff DV Samsung    :done,    exp2, 2019-11, 2025-02
+    Sr Silicon Design Eng AMD     :active,  exp3, 2025-02, 2026-12
 ```
 
 -----
