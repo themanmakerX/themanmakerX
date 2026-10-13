@@ -56,26 +56,6 @@ Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience 
 
 -----
 
-<div align="center"><h3>🏆 GitHub Trophies</h3></div>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=themanmakerX&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4"/>
-
-</div>
-
------
-
-<div align="center"><h3>📈 Contribution Activity</h3></div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=themanmakerX&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=112240&hide_border=true&radius=8"/>
-
-</div>
-
------
-
 <div align="center"><h3>🐍 Contribution Snake</h3></div>
 
 <div align="center">
