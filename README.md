@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:112240,100:1a1a2e&height=180&section=header&text=Atif%20Afzal&fontSize=70&fontColor=58a6ff&fontAlignY=50&animation=fadeIn"/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=themanmakerX&color=58a6ff&style=flat-square&label=Profile+Views)
+
 <h3>Sr. Silicon Design Engineer &nbsp;|&nbsp; GPU & SoC Verification &nbsp;|&nbsp; Agentic AI</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=780&height=45&lines=6%2B+Years+%7C+Mobile+%C2%B7+Automotive+%C2%B7+Wearable+%C2%B7+Server+GPU+Tapeouts;UVM+%7C+SystemVerilog+%7C+SystemC+%7C+Coverage-Driven+Verification;Agentic+AI+Tooling+%7C+MCP+Servers+%7C+Claude+API+%7C+OpenAI+Integration;NLP+%2F+NER+Research+for+SoC+Verification+Automation" alt="Typing SVG"/>
@@ -10,7 +12,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atif--afzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atif-afzal-077869139)
 [![Gmail](https://img.shields.io/badge/Gmail-atifafzal457-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atifafzal457@gmail.com)
-[![PyPI](https://img.shields.io/badge/PyPI-Published-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/themanmakerX/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-atifafzal.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://atifafzal.netlify.app/)
+[![PyPI](https://img.shields.io/badge/PyPI-3+Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/themanmakerX/)
 
 <br/>
 
@@ -33,24 +36,76 @@ Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience 
 
 -----
 
+<div align="center"><h3>📊 GitHub Stats</h3></div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=themanmakerX&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanmakerX&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=themanmakerX&theme=github-dark-blue&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff9900&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&background=0d1117"/>
+
+</div>
+
+-----
+
+<div align="center"><h3>🏆 GitHub Trophies</h3></div>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=themanmakerX&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4"/>
+
+</div>
+
+-----
+
+<div align="center"><h3>📈 Contribution Activity</h3></div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=themanmakerX&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=112240&hide_border=true&radius=8"/>
+
+</div>
+
+-----
+
+<div align="center"><h3>🐍 Contribution Snake</h3></div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/themanmakerX/themanmakerX/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/themanmakerX/themanmakerX/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/themanmakerX/themanmakerX/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+-----
+
 <div align="center"><h3>📊 At a Glance</h3></div>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                     CAREER SNAPSHOT                                  ║
-╠══════════════════╦═══════════════════════════════════════════════════╣
-║  Total XP        ║  7+ Years in Production Silicon                   ║
-║  Current Role    ║  Sr. Silicon Design Engineer @ AMD                ║
-║  SoC Domains     ║  Mobile · Auto · Wearable · TV · Server HPC       ║
-║  GPU Vendors     ║  Arm · AMD · Imagination Technologies             ║
-║  Scenario Types  ║  13 SoC-Level Verification Scenarios              ║
-║  PyPI Tools      ║  3 Published Open Source Packages                 ║
-║  AI Integration  ║  Claude API · OpenAI API · MCP Servers            ║
-║  Research        ║  NLP/NER for Automated SoC Verification           ║
-╚══════════════════╩═══════════════════════════════════════════════════╝
-```
+| &nbsp; | Metric | Value |
+|:---:|:---|:---|
+| 🏭 | **Current Role** | Sr. Silicon Design Engineer @ AMD |
+| ⏱️ | **Total Experience** | 7+ Years in Production Silicon |
+| 🔲 | **SoC Domains** | Mobile · Automotive · Wearable · TV · Server HPC |
+| 🖥️ | **GPU Vendors** | Arm · AMD · Imagination Technologies |
+| ✅ | **Verification Scenarios** | 13 SoC-Level Scenario Types |
+| 📦 | **Open Source** | 3 Published PyPI Packages |
+| 🤖 | **AI Integration** | Claude API · OpenAI API · 6 MCP Servers |
+| 🔬 | **Research** | NLP/NER for Automated SoC Verification |
+| 🎓 | **Education** | M.Tech VLSI — BITS Pilani (Ongoing) |
+| 📍 | **Location** | Bengaluru, India |
 
 </div>
 
@@ -58,74 +113,56 @@ Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience 
 
 <div align="center"><h3>🧠 Skill Proficiency</h3></div>
 
-<div align="center">
-
-```
-Hardware Verification
-SystemVerilog / UVM       ████████████████████  Expert    (6+ yrs)
-Coverage-Driven Verif.    ████████████████████  Expert    (6+ yrs)
-SVA Assertions            ████████████████░░░░  Advanced  (5+ yrs)
-SystemC / TLM             ████████████████░░░░  Advanced  (2+ yrs)
-Verilog RTL               ███████████████░░░░░  Advanced  (6+ yrs)
-
-EDA Tools
-Synopsys VCS / Verdi      ████████████████████  Expert    (6+ yrs)
-Cadence Vmanager / IMC    ██████████████████░░  Expert    (5+ yrs)
-Cadence Verisium          ████████████████░░░░  Advanced  (2+ yrs)
-Mentor Modelsim           ████████████░░░░░░░░  Proficient(3+ yrs)
-
-Software & AI
-Python                    ███████████████████░  Expert    (5+ yrs)
-Perl                      ██████████████████░░  Expert    (5+ yrs)
-Claude / OpenAI API       ████████████████░░░░  Advanced  (2+ yrs)
-FastAPI / TypeScript      ████████████░░░░░░░░  Proficient(2+ yrs)
-NLP / NER Modelling       ██████████████░░░░░░  Advanced  (1+ yr )
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'xyChart': {'backgroundColor': '#0d1117', 'plotColorPalette': '#58a6ff', 'titleColor': '#c9d1d9', 'xAxisLabelColor': '#8b949e', 'yAxisLabelColor': '#8b949e', 'gridColor': '#21262d'}}}}%%
+xychart-beta
+  title "Hardware & EDA — Years of Experience"
+  x-axis ["SV/UVM", "CDV", "SVA", "VCS/Verdi", "Vmanager", "Verisium", "RTL", "Modelsim"]
+  y-axis "Years" 0 --> 7
+  bar [6.5, 6.5, 5, 6.5, 5, 2, 6, 3]
 ```
 
-</div>
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'xyChart': {'backgroundColor': '#0d1117', 'plotColorPalette': '#1f6feb', 'titleColor': '#c9d1d9', 'xAxisLabelColor': '#8b949e', 'yAxisLabelColor': '#8b949e', 'gridColor': '#21262d'}}}}%%
+xychart-beta
+  title "Software & AI — Years of Experience"
+  x-axis ["Python", "Perl", "Shell", "AI APIs", "FastAPI/TS", "NLP/NER", "SystemC"]
+  y-axis "Years" 0 --> 6
+  bar [5, 5, 6, 2, 2, 1.5, 2]
+```
 
 -----
 
 <div align="center"><h3>📈 Domain Experience Distribution</h3></div>
 
-<div align="center">
-
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'pie1': '#58a6ff', 'pie2': '#1f6feb', 'pie3': '#388bfd', 'pie4': '#79c0ff', 'pie5': '#cae8ff', 'pieTextColor': '#0d1117', 'pieLegendTextColor': '#c9d1d9', 'pieSectionTextSize': '14px', 'pieOuterStrokeWidth': '2px'}}}%%
+pie showData title SoC Platform Coverage
+  "Mobile SoCs" : 40
+  "Server / HPC GPU" : 30
+  "Automotive" : 15
+  "Television" : 10
+  "Wearable" : 5
 ```
-SoC Platform Coverage
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  Mobile SoCs        ████████████████████  40%  (flagship + mid-range)
-  Server / HPC GPU   ████████████████░░░░  30%  (AMD — current)
-  Automotive SoCs    ████████░░░░░░░░░░░░  15%  (infotainment, ADAS)
-  Television SoCs    █████░░░░░░░░░░░░░░░  10%  (smart TV platforms)
-  Wearable SoCs      ██░░░░░░░░░░░░░░░░░░   5%  (smartwatches)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
 
 -----
 
 <div align="center"><h3>⏳ Career Timeline</h3></div>
 
-<div align="center">
-
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#1f3a5f', 'primaryBorderColor': '#58a6ff', 'primaryTextColor': '#c9d1d9', 'secondaryColor': '#112240', 'tertiaryColor': '#0d1117', 'sectionBkgColor': '#0d1117', 'altSectionBkgColor': '#161b22', 'gridColor': '#21262d', 'doneTaskBkgColor': '#1f3a5f', 'doneTaskBorderColor': '#58a6ff', 'activeTaskBkgColor': '#1f6feb', 'activeTaskBorderColor': '#79c0ff', 'taskTextColor': '#c9d1d9', 'taskTextOutsideColor': '#c9d1d9', 'taskTextLightColor': '#e6edf3'}}}%%
+gantt
+  title Career & Education Timeline
+  dateFormat YYYY-MM
+  axisFormat %Y
+  section 🎓 Education
+    B.Tech EEE — SRMS Bareilly       :done,    edu1, 2014-08, 2018-07
+    M.Tech VLSI — BITS Pilani        :active,  edu2, 2023-01, 2026-12
+  section 💼 Experience
+    VLSI Training — Maven Silicon    :done,    exp1, 2019-04, 2019-10
+    Associate Staff DV — Samsung R&D :done,    exp2, 2019-11, 2025-02
+    Sr. Silicon Design Eng — AMD     :active,  exp3, 2025-02, 2026-12
 ```
-2014 ──────────────────────────────────────────────────────── 2026
-  │                                                              │
-  ▼                                                              ▼
-[B.Tech EEE]──►[Maven Silicon]──►[──── Samsung R&D ────]──►[AMD]
- SRMS Bareilly   VLSI Training     Associate Staff DV      Sr. SDE
- 2014 – 2018     Apr–Oct 2019      Nov 2019 – Feb 2025    Feb 2025+
-
-                             ┌──────────────────────────┐
-                             │  BITS Pilani M.Tech VLSI │
-                             │     Jan 2023 – Present   │
-                             └──────────────────────────┘
-```
-
-</div>
 
 -----
 
@@ -337,8 +374,8 @@ Institute: BITS Pilani, Rajasthan Campus
 |Project                                                                               |Stack                             |PyPI                                                                                                                                              |Description                                                                                                  |
 |:-------------------------------------------------------------------------------------|:---------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------|
 |**[Agentic-AI](https://github.com/themanmakerX/Agentic-AI)**                          |Python · Shell · JS · TS · FastMCP|—                                                                                                                                                 |Modular AI coding agent framework — reusable skills, MCP servers, knowledge graphs, multi-agent orchestration|
-|**[UVM-Testbench-Generator](https://github.com/themanmakerX/UVM-Testbench-Generator)**|Python · Tkinter · SV templates   |[![PyPI](https://img.shields.io/pypi/v/uvm-testbench-generator?style=flat-square&color=3775A9)](https://pypi.org/project/uvm-testbench-generator/)|GUI scaffold: DUT import → full UVM environment in one workflow                                              |
-|**[Grepper-Utility](https://github.com/themanmakerX/Grepper-Utility)**                |Python · Regex · ANSI             |[![PyPI](https://img.shields.io/pypi/v/grepper?style=flat-square&color=3775A9)](https://pypi.org/project/grepper/)                                |Fast recursive file-search CLI with regex, ignore patterns, colorized output                                 |
+|**[UVM-Testbench-Generator](https://github.com/themanmakerX/UVM-Testbench-Generator)**|Python · Tkinter · SV templates   |[![PyPI](https://img.shields.io/pypi/v/uvm-testbench-generator?style=flat-square&color=3775A9)](https://pypi.org/project/uvm-testbench-generator/) ![Downloads](https://img.shields.io/pypi/dm/uvm-testbench-generator?style=flat-square&color=22c55e&label=dl%2Fmo)|GUI scaffold: DUT import → full UVM environment in one workflow                                              |
+|**[Grepper-Utility](https://github.com/themanmakerX/Grepper-Utility)**                |Python · Regex · ANSI             |[![PyPI](https://img.shields.io/pypi/v/grepper?style=flat-square&color=3775A9)](https://pypi.org/project/grepper/) ![Downloads](https://img.shields.io/pypi/dm/grepper?style=flat-square&color=22c55e&label=dl%2Fmo)                                                    |Fast recursive file-search CLI with regex, ignore patterns, colorized output                                 |
 
 </div>
 
@@ -503,6 +540,7 @@ Institute: BITS Pilani, Rajasthan Campus
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atif-afzal-077869139)
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atifafzal457@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://atifafzal.netlify.app/)
 [![PyPI](https://img.shields.io/badge/PyPI%20Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/themanmakerX/)
 
 <br/><br/>
@@ -510,3 +548,4 @@ Institute: BITS Pilani, Rajasthan Campus
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:112240,100:0d1117&height=120&section=footer"/>
 
 </div>
+
