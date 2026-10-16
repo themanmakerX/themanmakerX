@@ -84,7 +84,7 @@ Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience 
 | 📦 | **Open Source** | 3 Published PyPI Packages |
 | 🤖 | **AI Integration** | Claude API · OpenAI API · 6 MCP Servers |
 | 🔬 | **Research** | NLP/NER for Automated SoC Verification |
-| 🎓 | **Education** | M.Tech VLSI — BITS Pilani (Ongoing) |
+| 🎓 | **Education** | M.Tech Microelectronics, BITS Pilani (2025) |
 | 📍 | **Location** | Bengaluru, India |
 
 </div>
@@ -137,7 +137,7 @@ gantt
   axisFormat %Y
   section Education
     B.Tech EEE SRMS Bareilly      :done,    edu1, 2014-08, 2018-07
-    M.Tech VLSI BITS Pilani       :active,  edu2, 2023-01, 2026-12
+    M.Tech VLSI BITS Pilani       :done,    edu2, 2023-01, 2025-03
   section Experience
     VLSI Training Maven Silicon   :done,    exp1, 2019-04, 2019-10
     Associate Staff DV Samsung    :done,    exp2, 2019-11, 2025-02
@@ -178,7 +178,7 @@ gantt
 
 |Degree                                       |Institution                                       |Period             |
 |:--------------------------------------------|:------------------------------------------------:|:-----------------:|
-|M.Tech — Microelectronics & VLSI Design      |BITS Pilani, Rajasthan Campus                     |Jan 2023 – Present |
+|M.Tech, Microelectronics & VLSI Design      |BITS Pilani, Rajasthan Campus                     |Jan 2023 – Mar 2025|
 |B.Tech — Electrical & Electronics Engineering|SRMS College of Engineering & Technology, Bareilly|Aug 2014 – Jul 2018|
 |Advanced VLSI Design & Verification Training |Maven Silicon, Bengaluru                          |Apr – Oct 2019     |
 
