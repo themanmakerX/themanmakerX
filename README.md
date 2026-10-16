@@ -105,8 +105,8 @@ Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience 
 xychart-beta
   title "Hardware and EDA — Years of Experience"
   x-axis ["SV/UVM", "CDV", "SVA", "VCS/Verdi", "Vmanager", "Verisium", "RTL", "Modelsim"]
-  y-axis "Years" 0 --> 7
-  bar [6, 6, 5, 6, 5, 2, 6, 3]
+  y-axis "Years" 0 --> 8
+  bar [7, 7, 5, 7, 5, 2, 7, 3]
 ```
 
 ```mermaid
