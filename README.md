@@ -6,20 +6,27 @@
 
 <h3>Sr. Silicon Design Engineer &nbsp;|&nbsp; GPU & SoC Verification &nbsp;|&nbsp; Agentic AI</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=780&height=45&lines=6%2B+Years+%7C+Mobile+%C2%B7+Automotive+%C2%B7+Wearable+%C2%B7+Server+GPU+Tapeouts;UVM+%7C+SystemVerilog+%7C+SystemC+%7C+Coverage-Driven+Verification;Agentic+AI+Tooling+%7C+MCP+Servers+%7C+Claude+API+%7C+OpenAI+Integration;NLP+%2F+NER+Research+for+SoC+Verification+Automation" alt="Typing SVG"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=780&height=45&lines=7%2B+Years+%7C+Mobile+%C2%B7+Automotive+%C2%B7+Wearable+%C2%B7+Server+GPU+Tapeouts;UVM+%7C+SystemVerilog+%7C+SystemC+%7C+Coverage-Driven+Verification;Agentic+AI+Tooling+%7C+MCP+Servers+%7C+Claude+API+%7C+OpenAI+Integration;NLP+%2F+NER+Research+for+SoC+Verification+Automation" alt="Typing SVG"/>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atif--afzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atif-afzal-077869139)
-[![Gmail](https://img.shields.io/badge/Gmail-atifafzal457-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atifafzal457@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-atifafzal.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://atifafzal.netlify.app/)
-[![PyPI](https://img.shields.io/badge/PyPI-3+Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/themanmakerX/)
+[![DV Mentorship](https://img.shields.io/badge/DV%20Mentorship-dvmentorship.netlify.app-7C3AED?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://dvmentorship.netlify.app/)
+[![Topmate](https://img.shields.io/badge/Topmate-1:1%20Sessions-5B3DF5?style=for-the-badge)](https://topmate.io/letslearntechnologies)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-themanmakerx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themanmakerx/)
+[![YouTube](https://img.shields.io/badge/YouTube-letslearntechnologies-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@letslearntechnologies)
+[![Instagram](https://img.shields.io/badge/Instagram-theman.makerx-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theman.makerx/)
+[![Facebook](https://img.shields.io/badge/Facebook-themanmakerX-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/themanmakerX/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-atifafzal457-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atifafzal457@gmail.com)
+[![PyPI](https://img.shields.io/badge/PyPI-3%20Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/atifafzal786/)
 
 <br/>
 
 ![AMD](https://img.shields.io/badge/AMD-Sr.%20Silicon%20Design%20Engineer-ED1C24?style=flat-square&logo=amd&logoColor=white)
 ![BITS](https://img.shields.io/badge/M.Tech%20VLSI-BITS%20Pilani-8B5CF6?style=flat-square&logo=academia&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-6%2B%20Years-22c55e?style=flat-square&logo=buffer&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-22c55e?style=flat-square&logo=buffer&logoColor=white)
 ![Location](https://img.shields.io/badge/Bengaluru%2C%20India-F97316?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
@@ -40,9 +47,8 @@ Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=themanmakerX&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanmakerX&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=themanmakerX&show_icons=true&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themanmakerX&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&card_width=495"/>
 
 </div>
 
@@ -50,7 +56,7 @@ Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience 
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=themanmakerX&theme=github-dark-blue&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff9900&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&background=0d1117"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=themanmakerX&theme=github-dark-blue&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff9900&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&background=0d1117"/>
 
 </div>
 
@@ -63,7 +69,7 @@ Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/themanmakerX/themanmakerX/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/themanmakerX/themanmakerX/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/themanmakerX/themanmakerX/output/github-contribution-grid-snake-dark.svg"/>
+  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/themanmakerX/themanmakerX/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -74,18 +80,19 @@ Sr. Silicon Design Engineer at **AMD** with **7+ years** of hands-on experience 
 
 <div align="center">
 
-| &nbsp; | Metric | Value |
-|:---:|:---|:---|
-| 🏭 | **Current Role** | Sr. Silicon Design Engineer @ AMD |
-| ⏱️ | **Total Experience** | 7+ Years in Production Silicon |
-| 🔲 | **SoC Domains** | Mobile · Automotive · Wearable · TV · Server HPC |
-| 🖥️ | **GPU Vendors** | Arm · AMD · Imagination Technologies |
-| ✅ | **Verification Scenarios** | 13 SoC-Level Scenario Types |
-| 📦 | **Open Source** | 3 Published PyPI Packages |
-| 🤖 | **AI Integration** | Claude API · OpenAI API · 6 MCP Servers |
-| 🔬 | **Research** | NLP/NER for Automated SoC Verification |
-| 🎓 | **Education** | M.Tech Microelectronics, BITS Pilani (2025) |
-| 📍 | **Location** | Bengaluru, India |
+<table width="100%">
+<tr><th width="6%">&nbsp;</th><th width="30%">Metric</th><th width="64%">Value</th></tr>
+<tr><td align="center">🏭</td><td><b>Current Role</b></td><td>Sr. Silicon Design Engineer @ AMD</td></tr>
+<tr><td align="center">⏱️</td><td><b>Total Experience</b></td><td>7+ Years in Production Silicon</td></tr>
+<tr><td align="center">🔲</td><td><b>SoC Domains</b></td><td>Mobile · Automotive · Wearable · TV · Server HPC</td></tr>
+<tr><td align="center">🖥️</td><td><b>GPU Vendors</b></td><td>Arm · AMD · Imagination Technologies</td></tr>
+<tr><td align="center">✅</td><td><b>Verification Scenarios</b></td><td>13 SoC-Level Scenario Types</td></tr>
+<tr><td align="center">📦</td><td><b>Open Source</b></td><td>3 Published PyPI Packages</td></tr>
+<tr><td align="center">🤖</td><td><b>AI Integration</b></td><td>Claude API · OpenAI API · 6 MCP Servers</td></tr>
+<tr><td align="center">🔬</td><td><b>Research</b></td><td>NLP/NER for Automated SoC Verification</td></tr>
+<tr><td align="center">🎓</td><td><b>Education</b></td><td>M.Tech Microelectronics, BITS Pilani (2025)</td></tr>
+<tr><td align="center">📍</td><td><b>Location</b></td><td>Bengaluru, India</td></tr>
+</table>
 
 </div>
 
@@ -155,11 +162,12 @@ gantt
 
 <div align="center">
 
-|Period             |Company                     |Role                       |Scope                                                                                                             |
-|:-----------------:|:--------------------------:|:-------------------------:|:-----------------------------------------------------------------------------------------------------------------|
-|Feb 2025 – Present |**AMD**, Bengaluru          |Sr. Silicon Design Engineer|GPU SoC verification · UVM + SystemC · Server & laptop GPU variants · AI-powered debug tooling                    |
-|Nov 2019 – Feb 2025|**Samsung R&D**, Bengaluru  |Associate Staff DV Engineer|5+ years · GPU block DV for Arm, AMD, Imagination IPs · Mobile · Auto · Wearable · TV SoCs · Perl automation suite|
-|Apr – Oct 2019     |**Maven Silicon**, Bengaluru|VLSI Trainee               |Advanced VLSI Design & Verification · UART IP core · Router 1×3 RTL design & verification                         |
+<table width="100%">
+<tr><th align="center">Period</th><th align="center">Company</th><th align="center">Role</th><th align="left">Scope</th></tr>
+<tr><td align="center">Feb 2025 – Present</td><td align="center"><b>AMD</b>, Bengaluru</td><td align="center">Sr. Silicon Design Engineer</td><td align="left">GPU SoC verification · UVM + SystemC · Server & laptop GPU variants · AI-powered debug tooling</td></tr>
+<tr><td align="center">Nov 2019 – Feb 2025</td><td align="center"><b>Samsung R&D</b>, Bengaluru</td><td align="center">Associate Staff DV Engineer</td><td align="left">5+ years · GPU block DV for Arm, AMD, Imagination IPs · Mobile · Auto · Wearable · TV SoCs · Perl automation suite</td></tr>
+<tr><td align="center">Apr – Oct 2019</td><td align="center"><b>Maven Silicon</b>, Bengaluru</td><td align="center">VLSI Trainee</td><td align="left">Advanced VLSI Design & Verification · UART IP core · Router 1×3 RTL design & verification</td></tr>
+</table>
 
 </div>
 
@@ -176,11 +184,12 @@ gantt
 
 <div align="center">
 
-|Degree                                       |Institution                                       |Period             |
-|:--------------------------------------------|:------------------------------------------------:|:-----------------:|
-|M.Tech, Microelectronics & VLSI Design      |BITS Pilani, Rajasthan Campus                     |Jan 2023 – Mar 2025|
-|B.Tech — Electrical & Electronics Engineering|SRMS College of Engineering & Technology, Bareilly|Aug 2014 – Jul 2018|
-|Advanced VLSI Design & Verification Training |Maven Silicon, Bengaluru                          |Apr – Oct 2019     |
+<table width="100%">
+<tr><th align="left">Degree</th><th align="center">Institution</th><th align="center">Period</th></tr>
+<tr><td align="left">M.Tech, Microelectronics & VLSI Design</td><td align="center">BITS Pilani, Rajasthan Campus</td><td align="center">Jan 2023 – Mar 2025</td></tr>
+<tr><td align="left">B.Tech — Electrical & Electronics Engineering</td><td align="center">SRMS College of Engineering & Technology, Bareilly</td><td align="center">Aug 2014 – Jul 2018</td></tr>
+<tr><td align="left">Advanced VLSI Design & Verification Training</td><td align="center">Maven Silicon, Bengaluru</td><td align="center">Apr – Oct 2019</td></tr>
+</table>
 
 </div>
 
@@ -223,21 +232,22 @@ Multimedia IP Experience
 
 <div align="center">
 
-|#  |Scenario             |Methodology                                         |
-|:-:|:--------------------|:---------------------------------------------------|
-|01 |Register Read / Write|RAL — UVM Register Abstraction Layer                |
-|02 |Connectivity         |Clock · Reset · Interrupt · System Registers        |
-|03 |Security Compliance  |Spec-based access permission validation per IP      |
-|04 |Core Functional      |Spec-driven scenario definition & execution         |
-|05 |Reset Verification   |IP register reset values via reg_def sheets         |
-|06 |Interrupt Handling   |Frame completion + IP-specific interrupt flows      |
-|07 |Clock Gating         |AMBA Q-Channel (auto) + SFR writes (manual)         |
-|08 |Safety — ASIL        |Functional safety compliance for safety-critical IPs|
-|09 |DVFS                 |Frequency scaling per voltage sequencing spec       |
-|10 |Low Power Simulation |Power-up / down tests per IP voltage domain         |
-|11 |Functional Coverage  |Covergroup / Coverpoint definition and closure      |
-|12 |Gate-Level Simulation|Post-synthesis SoC-level gate sim                   |
-|13 |X-Prop & CDC         |X-propagation and clock domain crossing cleanup     |
+<table width="100%">
+<tr><th align="center">#</th><th align="left">Scenario</th><th align="left">Methodology</th></tr>
+<tr><td align="center">01</td><td align="left">Register Read / Write</td><td align="left">RAL — UVM Register Abstraction Layer</td></tr>
+<tr><td align="center">02</td><td align="left">Connectivity</td><td align="left">Clock · Reset · Interrupt · System Registers</td></tr>
+<tr><td align="center">03</td><td align="left">Security Compliance</td><td align="left">Spec-based access permission validation per IP</td></tr>
+<tr><td align="center">04</td><td align="left">Core Functional</td><td align="left">Spec-driven scenario definition & execution</td></tr>
+<tr><td align="center">05</td><td align="left">Reset Verification</td><td align="left">IP register reset values via reg_def sheets</td></tr>
+<tr><td align="center">06</td><td align="left">Interrupt Handling</td><td align="left">Frame completion + IP-specific interrupt flows</td></tr>
+<tr><td align="center">07</td><td align="left">Clock Gating</td><td align="left">AMBA Q-Channel (auto) + SFR writes (manual)</td></tr>
+<tr><td align="center">08</td><td align="left">Safety — ASIL</td><td align="left">Functional safety compliance for safety-critical IPs</td></tr>
+<tr><td align="center">09</td><td align="left">DVFS</td><td align="left">Frequency scaling per voltage sequencing spec</td></tr>
+<tr><td align="center">10</td><td align="left">Low Power Simulation</td><td align="left">Power-up / down tests per IP voltage domain</td></tr>
+<tr><td align="center">11</td><td align="left">Functional Coverage</td><td align="left">Covergroup / Coverpoint definition and closure</td></tr>
+<tr><td align="center">12</td><td align="left">Gate-Level Simulation</td><td align="left">Post-synthesis SoC-level gate sim</td></tr>
+<tr><td align="center">13</td><td align="left">X-Prop & CDC</td><td align="left">X-propagation and clock domain crossing cleanup</td></tr>
+</table>
 
 </div>
 
@@ -279,12 +289,13 @@ Multimedia IP Experience
 
 <div align="center">
 
-|Tool                         |Input                           |Output              |Purpose                                    |
-|:----------------------------|:------------------------------:|:------------------:|:------------------------------------------|
-|**Test Case Generator**      |Hardware Description Spec `.xls`|`.sv` class files   |Auto-generate UVM test classes from spec   |
-|**Vsif File Generator**      |Attribute Sheet `.xls`          |`.vsif`             |Cadence Vmanager-compatible coverage config|
-|**Coverage Coder**           |Covergroup / Coverpoint `.xls`  |`.sv` coverage class|Functional coverage automation             |
-|**Regression Status Monitor**|Dump directory                  |`.txt` report       |Pass / Fail / In-Progress / Rerun counts   |
+<table width="100%">
+<tr><th align="left">Tool</th><th align="center">Input</th><th align="center">Output</th><th align="left">Purpose</th></tr>
+<tr><td align="left"><b>Test Case Generator</b></td><td align="center">Hardware Description Spec <code>.xls</code></td><td align="center"><code>.sv</code> class files</td><td align="left">Auto-generate UVM test classes from spec</td></tr>
+<tr><td align="left"><b>Vsif File Generator</b></td><td align="center">Attribute Sheet <code>.xls</code></td><td align="center"><code>.vsif</code></td><td align="left">Cadence Vmanager-compatible coverage config</td></tr>
+<tr><td align="left"><b>Coverage Coder</b></td><td align="center">Covergroup / Coverpoint <code>.xls</code></td><td align="center"><code>.sv</code> coverage class</td><td align="left">Functional coverage automation</td></tr>
+<tr><td align="left"><b>Regression Status Monitor</b></td><td align="center">Dump directory</td><td align="center"><code>.txt</code> report</td><td align="left">Pass / Fail / In-Progress / Rerun counts</td></tr>
+</table>
 
 </div>
 
@@ -316,11 +327,12 @@ Institute: BITS Pilani, Rajasthan Campus
 
 <div align="center">
 
-|Area              |Techniques                                                                |
-|:-----------------|:-------------------------------------------------------------------------|
-|Learning Paradigms|Supervised · Unsupervised · Semi-Supervised · Reinforcement Learning      |
-|NLP Pipeline      |Dataset creation → Training → Optimization → Fine-tuning                  |
-|Application       |Automated extraction of verification scenarios from unstructured spec text|
+<table width="100%">
+<tr><th align="left">Area</th><th align="left">Techniques</th></tr>
+<tr><td align="left">Learning Paradigms</td><td align="left">Supervised · Unsupervised · Semi-Supervised · Reinforcement Learning</td></tr>
+<tr><td align="left">NLP Pipeline</td><td align="left">Dataset creation → Training → Optimization → Fine-tuning</td></tr>
+<tr><td align="left">Application</td><td align="left">Automated extraction of verification scenarios from unstructured spec text</td></tr>
+</table>
 
 </div>
 
@@ -337,25 +349,18 @@ Institute: BITS Pilani, Rajasthan Campus
 
 <div align="center">
 
-<a href="https://github.com/themanmakerX/Agentic-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=Agentic-AI&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
-</a>
-&nbsp;
-<a href="https://github.com/themanmakerX/UVM-Testbench-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=UVM-Testbench-Generator&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
-</a>
-&nbsp;
-<a href="https://github.com/themanmakerX/Grepper-Utility">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=Grepper-Utility&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
-</a>
+<a href="https://github.com/themanmakerX/Agentic-AI"><img width="32.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=Agentic-AI&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/></a>
+<a href="https://github.com/themanmakerX/UVM-Testbench-Generator"><img width="32.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=UVM-Testbench-Generator&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/></a>
+<a href="https://github.com/themanmakerX/Grepper-Utility"><img width="32.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=themanmakerX&repo=Grepper-Utility&theme=github_dark&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/></a>
 
 <br/><br/>
 
-|Project                                                                               |Stack                             |PyPI                                                                                                                                              |Description                                                                                                  |
-|:-------------------------------------------------------------------------------------|:---------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------|
-|**[Agentic-AI](https://github.com/themanmakerX/Agentic-AI)**                          |Python · Shell · JS · TS · FastMCP|—                                                                                                                                                 |Modular AI coding agent framework — reusable skills, MCP servers, knowledge graphs, multi-agent orchestration|
-|**[UVM-Testbench-Generator](https://github.com/themanmakerX/UVM-Testbench-Generator)**|Python · Tkinter · SV templates   |[![PyPI](https://img.shields.io/pypi/v/uvm-testbench-generator?style=flat-square&color=3775A9)](https://pypi.org/project/uvm-testbench-generator/) ![Downloads](https://img.shields.io/pypi/dm/uvm-testbench-generator?style=flat-square&color=22c55e&label=dl%2Fmo)|GUI scaffold: DUT import → full UVM environment in one workflow                                              |
-|**[Grepper-Utility](https://github.com/themanmakerX/Grepper-Utility)**                |Python · Regex · ANSI             |[![PyPI](https://img.shields.io/pypi/v/grepper?style=flat-square&color=3775A9)](https://pypi.org/project/grepper/) ![Downloads](https://img.shields.io/pypi/dm/grepper?style=flat-square&color=22c55e&label=dl%2Fmo)                                                    |Fast recursive file-search CLI with regex, ignore patterns, colorized output                                 |
+<table width="100%">
+<tr><th align="left">Project</th><th align="left">Stack</th><th align="center">PyPI</th><th align="left">Description</th></tr>
+<tr><td align="left"><b><a href="https://github.com/themanmakerX/Agentic-AI">Agentic-AI</a></b></td><td align="left">Python · Shell · JS · TS · FastMCP</td><td align="center">—</td><td align="left">Modular AI coding agent framework — reusable skills, MCP servers, knowledge graphs, multi-agent orchestration</td></tr>
+<tr><td align="left"><b><a href="https://github.com/themanmakerX/UVM-Testbench-Generator">UVM-Testbench-Generator</a></b></td><td align="left">Python · Tkinter · SV templates</td><td align="center"><a href="https://pypi.org/project/uvm-testbench-generator/"><img src="https://img.shields.io/pypi/v/uvm-testbench-generator?style=flat-square&color=3775A9" alt="PyPI"/></a> <img src="https://img.shields.io/pypi/dm/uvm-testbench-generator?style=flat-square&color=22c55e&label=dl%2Fmo" alt="Downloads"/></td><td align="left">GUI scaffold: DUT import → full UVM environment in one workflow</td></tr>
+<tr><td align="left"><b><a href="https://github.com/themanmakerX/Grepper-Utility">Grepper-Utility</a></b></td><td align="left">Python · Regex · ANSI</td><td align="center"><a href="https://pypi.org/project/grepper/"><img src="https://img.shields.io/pypi/v/grepper?style=flat-square&color=3775A9" alt="PyPI"/></a> <img src="https://img.shields.io/pypi/dm/grepper?style=flat-square&color=22c55e&label=dl%2Fmo" alt="Downloads"/></td><td align="left">Fast recursive file-search CLI with regex, ignore patterns, colorized output</td></tr>
+</table>
 
 </div>
 
@@ -475,17 +480,18 @@ Institute: BITS Pilani, Rajasthan Campus
 
 <div align="center">
 
-|🏅 Position|Event              |Venue                              |
-|:--------:|:------------------|:----------------------------------|
-|🥇 1st     |Line Follower Robot|IIT Delhi                          |
-|🥇 1st     |Line Follower Robot|IIT Kanpur                         |
-|🥇 1st     |Line Follower Robot|ABES Engineering College, Ghaziabad|
-|🥈 2nd     |Line Follower Robot|IIT BHU                            |
-|🥈 2nd     |Line Follower Robot|IIIT Delhi                         |
-|🥈 2nd     |Line Follower Robot|SRMS College, Bareilly             |
-|🥉 3rd     |Line Follower Robot|IIIT Delhi                         |
-|🥈 2nd     |Edge Follower Robot|ABES Engineering College, Ghaziabad|
-|🥈 2nd     |Robo Soccer        |ABES Engineering College, Ghaziabad|
+<table width="100%">
+<tr><th align="center">🏅 Position</th><th align="left">Event</th><th align="left">Venue</th></tr>
+<tr><td align="center">🥇 1st</td><td align="left">Line Follower Robot</td><td align="left">IIT Delhi</td></tr>
+<tr><td align="center">🥇 1st</td><td align="left">Line Follower Robot</td><td align="left">IIT Kanpur</td></tr>
+<tr><td align="center">🥇 1st</td><td align="left">Line Follower Robot</td><td align="left">ABES Engineering College, Ghaziabad</td></tr>
+<tr><td align="center">🥈 2nd</td><td align="left">Line Follower Robot</td><td align="left">IIT BHU</td></tr>
+<tr><td align="center">🥈 2nd</td><td align="left">Line Follower Robot</td><td align="left">IIIT Delhi</td></tr>
+<tr><td align="center">🥈 2nd</td><td align="left">Line Follower Robot</td><td align="left">SRMS College, Bareilly</td></tr>
+<tr><td align="center">🥉 3rd</td><td align="left">Line Follower Robot</td><td align="left">IIIT Delhi</td></tr>
+<tr><td align="center">🥈 2nd</td><td align="left">Edge Follower Robot</td><td align="left">ABES Engineering College, Ghaziabad</td></tr>
+<tr><td align="center">🥈 2nd</td><td align="left">Robo Soccer</td><td align="left">ABES Engineering College, Ghaziabad</td></tr>
+</table>
 
 </div>
 
@@ -502,13 +508,14 @@ Institute: BITS Pilani, Rajasthan Campus
 
 <div align="center">
 
-|Area         |Focus                                                                |
-|:-----------:|:--------------------------------------------------------------------|
-|🔲 Silicon DV |GPU subsystem verification — Server & laptop GPU platforms @ AMD     |
-|🤖 AI Tooling |Agentic multi-agent debug platform with MCP server ecosystem         |
-|🔬 Research   |NLP-driven verification scenario auto-generation (BITS Pilani M.Tech)|
-|📦 Open Source|UVM scaffolding tools + CLI utilities on PyPI                        |
-|📚 Learning   |LLM fine-tuning for hardware verification context understanding      |
+<table width="100%">
+<tr><th align="center">Area</th><th align="left">Focus</th></tr>
+<tr><td align="center">🔲 Silicon DV</td><td align="left">GPU subsystem verification — Server & laptop GPU platforms @ AMD</td></tr>
+<tr><td align="center">🤖 AI Tooling</td><td align="left">Agentic multi-agent debug platform with MCP server ecosystem</td></tr>
+<tr><td align="center">🔬 Research</td><td align="left">NLP-driven verification scenario auto-generation (BITS Pilani M.Tech)</td></tr>
+<tr><td align="center">📦 Open Source</td><td align="left">UVM scaffolding tools + CLI utilities on PyPI</td></tr>
+<tr><td align="center">📚 Learning</td><td align="left">LLM fine-tuning for hardware verification context understanding</td></tr>
+</table>
 
 </div>
 
@@ -516,12 +523,21 @@ Institute: BITS Pilani, Rajasthan Campus
 
 -----
 
+<div align="center"><h3>🤝 Connect With Me</h3></div>
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atif-afzal-077869139)
-[![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atifafzal457@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themanmakerx/)
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@letslearntechnologies)
+[![Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theman.makerx/)
+[![Facebook](https://img.shields.io/badge/Follow%20on%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/themanmakerX/)
+
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://atifafzal.netlify.app/)
-[![PyPI](https://img.shields.io/badge/PyPI%20Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/themanmakerX/)
+[![DV Mentorship](https://img.shields.io/badge/DV%20Mentorship-7C3AED?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://dvmentorship.netlify.app/)
+[![Topmate](https://img.shields.io/badge/Book%20on%20Topmate-5B3DF5?style=for-the-badge)](https://topmate.io/letslearntechnologies)
+
+[![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atifafzal457@gmail.com)
+[![PyPI](https://img.shields.io/badge/PyPI%20Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/atifafzal786/)
 
 <br/><br/>
 
